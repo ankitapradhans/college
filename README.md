@@ -1,4 +1,4 @@
-# college
-this is my repositrory.
+# project-amazon-clone
+this is my first repositrory.
 <br>
 author-ankita pradhan
