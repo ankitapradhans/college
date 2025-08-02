@@ -1,3 +1,4 @@
 # college
-this is my repositrory
+this is my repositrory.
+<br>
 auther-ankita pradhan
