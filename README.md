@@ -1,4 +1,4 @@
 # college
 this is my repositrory.
 <br>
-auther-ankita pradhan
+author-ankita pradhan
